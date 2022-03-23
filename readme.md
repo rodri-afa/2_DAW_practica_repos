@@ -6,4 +6,4 @@ Cada integrante del grupo deberá de participar en todos los archivos, pero ser�
 
 1. _conexion.php:_ en donde se accederá a una base de datos para realizar una consulta y devolver los resultados pertinentes.
 1. _vista.php:_ donde se importarán los datos obtenidos en la base de datos y se creará el HTML mostrado por el navegador.
-1. _estilos.css:_ en este archivo se crearán todos los estilos CSS para que cada uno de los
+1. _estilos.css:_ en este archivo se crearán todos los estilos CSS para que cada uno de los registros se muestren en formato tarjeta, con una estructura acorde a la jerarquía de la información.
